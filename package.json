@@ -1,0 +1,21 @@
+{
+  "name": "examen2-sistemas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Sin tests por ahora\" && exit 0",
+    "lint": "echo \"Sin lint por ahora\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Cristina Lopez",
+  "license": "ISC",
+  "description": "Examen 2 de Sistemas Operativos con CI/CD y Docker",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
